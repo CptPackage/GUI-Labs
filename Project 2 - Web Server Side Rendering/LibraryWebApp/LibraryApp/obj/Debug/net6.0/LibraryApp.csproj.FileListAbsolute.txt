@@ -1,0 +1,62 @@
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\bin\Debug\net6.0\appsettings.json
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\bin\Debug\net6.0\LibraryApp.staticwebassets.runtime.json
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\bin\Debug\net6.0\LibraryApp.exe
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\bin\Debug\net6.0\LibraryApp.deps.json
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\bin\Debug\net6.0\LibraryApp.runtimeconfig.json
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\bin\Debug\net6.0\LibraryApp.dll
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\bin\Debug\net6.0\LibraryApp.pdb
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\LibraryApp.AssemblyInfo.cs
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\LibraryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\LibraryApp.RazorAssemblyInfo.cache
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\LibraryApp.RazorAssemblyInfo.cs
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\staticwebassets\msbuild.LibraryApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\staticwebassets\msbuild.build.LibraryApp.props
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LibraryApp.props
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LibraryApp.props
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\scopedcss\bundle\LibraryApp.styles.css
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\scopedcss\projectbundle\LibraryApp.bundle.scp.css
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\LibraryApp.dll
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\refint\LibraryApp.dll
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\LibraryApp.pdb
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\LibraryApp.genruntimeconfig.cache
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\ref\LibraryApp.dll
+C:\Users\sunil\Desktop\studia\EGUI\lab2\LibraryApp\LibraryApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\bin\Debug\net6.0\appsettings.json
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\bin\Debug\net6.0\LibraryApp.staticwebassets.runtime.json
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\bin\Debug\net6.0\LibraryApp.exe
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\bin\Debug\net6.0\LibraryApp.deps.json
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\bin\Debug\net6.0\LibraryApp.runtimeconfig.json
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\bin\Debug\net6.0\LibraryApp.dll
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\bin\Debug\net6.0\LibraryApp.pdb
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\LibraryApp.csproj.AssemblyReference.cache
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\LibraryApp.AssemblyInfoInputs.cache
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\LibraryApp.AssemblyInfo.cs
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\LibraryApp.csproj.CoreCompileInputs.cache
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\LibraryApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\LibraryApp.RazorAssemblyInfo.cache
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\LibraryApp.RazorAssemblyInfo.cs
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\staticwebassets\msbuild.LibraryApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\staticwebassets\msbuild.build.LibraryApp.props
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LibraryApp.props
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LibraryApp.props
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\scopedcss\bundle\LibraryApp.styles.css
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\scopedcss\projectbundle\LibraryApp.bundle.scp.css
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\LibraryApp.dll
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\refint\LibraryApp.dll
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\LibraryApp.pdb
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\LibraryApp.genruntimeconfig.cache
+E:\Google's Temp Drive\GUI\Projects\Project 2 - Web Server Side Rendering\LibraryWebApp\LibraryApp\obj\Debug\net6.0\ref\LibraryApp.dll

@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewData["Title"] = "Home page";
+}
+<div class="text-center">
+    @if(ViewBag.Message == "errors")
+    {
+        <div class="border border-danger text-danger text-center"> Login or Password incorrect </div>
+    }
+    @if(ViewBag.Message == "user exists")
+    {
+        <div class="border border-danger text-danger text-center"> user with that login already exists </div>
+    }
+
+    <script type="text/javascript">
+        function checkPasswords(){
+            if(document.getElementById("password").value == document.getElementById("password2").value){
+                document.getElementById("submitButton").disabled = false;
+            }
+            else {
+                document.getElementById("submitButton").disabled = true;
+            }
+        }
+    </script>
+
+    <h1>Sign Up Here!</h1>
+    <form action="/home/signup" method="POST">
+    
+        <table class="w-100">
+            <tr>
+                <td class="w-50 text-end">
+                    <label for="login">Login:</label><br />
+                    <label for="password">Password:</label><br />
+                    <label for="password2">Repeat password:</label>
+                </td>
+                <td class="w-50 text-start">
+                    <input class="w-50" name="login" id="login" type="text" required autofocus><br />
+                    <input class="w-50" name="password" id="password" type="password" oninput="checkPasswords()" required><br />
+                    <input class="w-50" name="password2" id="password2" type="password" oninput="checkPasswords()" required>
+                </td>
+            </tr>
+        </table>
+        <div class="w-100 text-center">
+            <input type="submit" id="submitButton" disabled="disabled">
+        </div>
+    
+    </form> 
+</div>

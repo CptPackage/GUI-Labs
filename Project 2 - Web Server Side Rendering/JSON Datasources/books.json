@@ -1,0 +1,22 @@
+[
+    {
+        "id": 2,
+        "author": "Jeremy Clarkson",
+        "title": "Can You Make This Thing Go Faster",
+        "publisher": "Penguin Random House UK",
+        "date": 2020,
+        "user": "",
+        "leased": "",
+		"released": ""
+    },
+    {
+        "id": 5,
+        "author": "Jeremy Clarkson",
+        "title": "Diddly Squat - a Year on the Farm",
+        "date": 2020,
+        "publisher": "Penguin Random House UK",
+        "user": "jeremy",
+        "leased": "",
+		"released": ""
+    }
+]

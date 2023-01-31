@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-453a0a6306d42879a101.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "libraryApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "libraryApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libraryApp-Debug-09f87960eda8a02cd763.json",
+					"name" : "libraryApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libraryApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libraryApp_autogen-Debug-3b9fcee8fbf4fc7bf94f.json",
+					"name" : "libraryApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libraryApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libraryApp_autogen_timestamp_deps-Debug-ae515e1194a48519cca9.json",
+					"name" : "libraryApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/sunil/Desktop/studia/EGUI/lab1/build-libraryApp-Desktop_Qt_6_5_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/sunil/Desktop/gitlab/egui22z-sunil-ratnayake-lab1/windows/libraryApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

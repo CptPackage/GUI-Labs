@@ -1,0 +1,64 @@
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\bin\Debug\net6.0\appsettings.json
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\bin\Debug\net6.0\libraryApp.exe
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\bin\Debug\net6.0\libraryApp.deps.json
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\bin\Debug\net6.0\libraryApp.runtimeconfig.json
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\bin\Debug\net6.0\libraryApp.dll
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\bin\Debug\net6.0\libraryApp.pdb
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\libraryApp.csproj.AssemblyReference.cache
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\libraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\libraryApp.AssemblyInfoInputs.cache
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\libraryApp.AssemblyInfo.cs
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\libraryApp.csproj.CoreCompileInputs.cache
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\libraryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\libraryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\staticwebassets\msbuild.libraryApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\staticwebassets\msbuild.build.libraryApp.props
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.libraryApp.props
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.libraryApp.props
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\scopedcss\bundle\libraryApp.styles.css
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\libraryApp.csproj.CopyComplete
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\libraryApp.dll
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\refint\libraryApp.dll
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\libraryApp.pdb
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\libraryApp.genruntimeconfig.cache
+C:\Users\sunil\Desktop\studia\EGUI\lab3\react\libraryApp\obj\Debug\net6.0\ref\libraryApp.dll
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\bin\Debug\net6.0\appsettings.json
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\bin\Debug\net6.0\libraryApp.exe
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\bin\Debug\net6.0\libraryApp.deps.json
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\bin\Debug\net6.0\libraryApp.runtimeconfig.json
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\bin\Debug\net6.0\libraryApp.dll
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\bin\Debug\net6.0\libraryApp.pdb
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\libraryApp.csproj.AssemblyReference.cache
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\libraryApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\libraryApp.AssemblyInfoInputs.cache
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\libraryApp.AssemblyInfo.cs
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\libraryApp.csproj.CoreCompileInputs.cache
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\libraryApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\libraryApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\staticwebassets\msbuild.libraryApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\staticwebassets\msbuild.build.libraryApp.props
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.libraryApp.props
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.libraryApp.props
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\scopedcss\bundle\libraryApp.styles.css
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\libraryApp.csproj.CopyComplete
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\libraryApp.dll
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\refint\libraryApp.dll
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\libraryApp.pdb
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\libraryApp.genruntimeconfig.cache
+E:\Google's Temp Drive\GUI\Projects\Project 3 - Web Client Side Rendering\Backend\libraryApp\obj\Debug\net6.0\ref\libraryApp.dll

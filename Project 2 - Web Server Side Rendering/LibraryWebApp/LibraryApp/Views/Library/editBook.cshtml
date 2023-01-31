@@ -1,0 +1,64 @@
+﻿@using LibraryApp.Models
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the Book page!</h1>
+    
+</div>
+<div class="text-center">
+    @{
+        Book loc = dataHandler.get().getBook(ViewBag.b);
+    }
+    <form action="/library/editBook" method="POST">
+        <input type="hidden" name="b" value="@loc.id" />
+
+        Title: <input name="title" value ="@loc.title" required ="required"/><br />
+        Author: <input name="author" value="@loc.author" required="required" /><br />
+        Release year: <input type="number" name="date" value="@loc.date" required="required" /><br />
+        Publisher: <input name="publisher" value="@loc.publisher" required="required" /><br /><br />
+        User: <input name="user" value="@loc.user" /><br />
+        <fieldset>
+            <legend>Book status:</legend>
+            @{String status = loc.getStatus();}
+            @if (status == "avaliable")
+            {
+                <input type="radio" name="status" id="avaliable" value="avaliable" checked />
+                <label for="avaliable">avaliable</label>
+                <input type="radio" name="status" id="reserved" value="reserved" />
+                <label for="reserved">reserved</label>
+                <input type="radio" name="status" id="leased" value="leased" />
+                <label for="leased">leased</label>
+
+            }
+            else if (status == "reserved")
+            {
+                <input type="radio" name="status" id="avaliable" value="avaliable" />
+                <label for="avaliable">avaliable</label>
+                <input type="radio" name="status" id="reserved" value="reserved" checked />
+                <label for="reserved">reserved</label>
+                <input type="radio" name="status" id="leased" value="leased" />
+                <label for="leased">leased</label>
+            }
+            else
+            {
+                <input type="radio" name="status" id="avaliable" value="avaliable" />
+                <label for="avaliable">avaliable</label>
+                <input type="radio" name="status" id="reserved" value="reserved" />
+                <label for="reserved">reserved</label>
+                <input type="radio" name="status" id="leased" value="leased" checked />
+                <label for="leased">leased</label>
+            }
+        </fieldset>
+
+        <input type="hidden" name="a" value="edit" />
+        <input type="submit" />
+
+
+    </form>
+    Title: @loc.title <br />
+    Author: @loc.author <br />
+</div>
+

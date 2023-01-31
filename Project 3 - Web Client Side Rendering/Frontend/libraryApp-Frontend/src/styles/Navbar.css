@@ -1,0 +1,30 @@
+nav ul li *{
+    color: white !important;
+}
+
+nav ul li.active *{
+    color: #2ecce0 !important;
+    font-weight: 500;
+}
+
+nav ul li a {
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    opacity: 1;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    opacity: 0.7;
+    transition: opacity 0.3s ease-in-out;
+}
+
+nav ul li a i{
+    display: block;
+    text-align: center;
+}
+
+nav ul li a span{
+    font-family: "Roboto";
+    font-weight: 300;
+}

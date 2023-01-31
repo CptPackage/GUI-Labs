@@ -1,0 +1,58 @@
+﻿@using LibraryApp.Models
+@{
+    ViewData["Title"] = "Home page";
+}
+@model List<LibraryApp.Models.Book>
+
+
+<div class="text-left">
+    <h1 class="display-4">Welcome to the library page!</h1>
+    
+</div>
+<div class="border p-1">
+    <h6>Filters:</h6>
+    <form action ="/library" method="get">
+        @if (dataHandler.getUser() != "")
+        {
+            <span class="border p-1">
+                Show only my books:
+                @if (ViewBag.myBooks != null && ViewBag.myBooks)
+                {
+                    <input type="checkbox" name="myBooks" checked />
+                }
+                else
+                {
+                    <input type="checkbox" name="myBooks" />
+                }
+            </span>
+        }
+        <span class="border p-1">
+            only avaliable: 
+            @if (ViewBag.avaliable != null && ViewBag.avaliable)
+            {
+                <input type="checkbox" name="avaliable" checked />
+            }
+            else
+            {
+                <input type="checkbox" name="avaliable" />
+            }
+        </span>
+        <span class="border p-1">
+            author: <input name="author" value="@ViewBag.author" />
+        </span>
+        <span class="border p-1">
+            title: <input name="title" value="@ViewBag.filterTitle" />
+        </span>
+        <input type="submit" value="filter" />
+    </form>
+</div>
+@foreach (var item in Model)
+{
+    <a asp-controller="library" asp-action="book" asp-route-b=@item.id class="text-dark text-decoration-none">
+        <div class="border border-3 p-3">
+            <H3>@item.title</H3>
+            <p>author: @item.author</p>
+            <p>status: @item.getStatus()</p>
+        </div>
+    </a>
+}

@@ -1,0 +1,9 @@
+C:/Users/sunil/Desktop/studia/EGUI/lab1/build-libraryApp-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/libraryApp.dir
+C:/Users/sunil/Desktop/studia/EGUI/lab1/build-libraryApp-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/sunil/Desktop/studia/EGUI/lab1/build-libraryApp-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/sunil/Desktop/studia/EGUI/lab1/build-libraryApp-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/sunil/Desktop/studia/EGUI/lab1/build-libraryApp-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/sunil/Desktop/studia/EGUI/lab1/build-libraryApp-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/sunil/Desktop/studia/EGUI/lab1/build-libraryApp-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/sunil/Desktop/studia/EGUI/lab1/build-libraryApp-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/libraryApp_autogen_timestamp_deps.dir
+C:/Users/sunil/Desktop/studia/EGUI/lab1/build-libraryApp-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/libraryApp_autogen.dir

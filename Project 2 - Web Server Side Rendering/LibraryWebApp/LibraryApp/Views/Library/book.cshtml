@@ -1,0 +1,49 @@
+﻿@using LibraryApp.Models
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the Book page!</h1>
+    
+</div>
+<div class="text-left">
+    @{
+        Book loc = dataHandler.get().getBook(ViewBag.b);
+    }
+    <div class="fs-2">
+        Title: @loc.title 
+    </div>
+    <div class="fs-3">
+        Author: @loc.author
+    </div>
+    <span class="border fs-6">
+        Published by: @loc.publisher in: @loc.date
+    </span>
+    <br />
+    Status: @loc.getStatus() <br />
+    @if (dataHandler.getUser() == "librarian")
+    {
+            <br />
+            <a asp-controller="library" asp-action="editBook" asp-route-b=@ViewBag.b>
+                Edit this book
+            </a><br />
+    }
+    else
+    {
+        if (loc.getStatus() == "avaliable")
+        {
+            if (dataHandler.getUser() != "")
+            {
+                <a asp-controller="library" asp-action="reserveBook" asp-route-b=@ViewBag.b>
+                    reserve this book
+                </a><br />
+            }
+        }
+
+    }
+    Book id: @loc.id <br />
+    
+</div>
+

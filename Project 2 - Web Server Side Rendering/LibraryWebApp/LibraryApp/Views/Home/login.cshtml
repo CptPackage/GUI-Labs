@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Home page";
+}
+<div class="text-center">
+    @if(ViewBag.Message == "errors")
+    {
+        <div class="border border-danger text-danger text-center" > Login or Password incorrect </div>
+    }
+    <h1>Log In here!</h1>
+    <form action="/home/login" method="POST">
+    
+        <table class="w-100">
+            <tr>
+                <td class="w-50 text-end">
+                    <div class=" w-100">Login:</div>
+                    <div class=" w-100">Password:</div> 
+                </td>
+                <td class="w-50 text-start">
+                        <input class="w-50" name="login" id="login" type="text" required autofocus><br>
+                        <input class="w-50" name="password" id="password" type="password" required>
+                </td>
+            </tr>
+        </table>
+        <div class="w-100 text-center">
+            <input type = "submit">
+        </div>
+    
+    </form> 
+    <div class="w-100 text-center"> 
+        <a asp-controller="home" asp-action="signup">signup here!</a>
+    </div>
+</div>
